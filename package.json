@@ -1,0 +1,22 @@
+{
+  "name": "poller",
+  "version": "1.0.0",
+  "description": "A simple event-driven poller implementing EventEmitter interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasueki/poller.git"
+  },
+  "author": "hsueki794@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasueki/poller/issues"
+  },
+  "homepage": "https://github.com/hasueki/poller#readme",
+  "dependencies": {
+    "pauseable": "^0.3.2"
+  }
+}
